@@ -7,8 +7,7 @@ This project is a machine learning-based classification model that aims to analy
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Model Architecture](#model-architecture)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
